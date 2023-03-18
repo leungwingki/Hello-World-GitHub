@@ -1,3 +1,3 @@
 # Hello-World-GitHub
-this is a hello world project for usage of GitHub
-i added this line in the features brunch
+hello i am leung wing ki
+my student number is 1155157812
